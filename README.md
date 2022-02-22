@@ -5,3 +5,5 @@ print("hello world")
 This is not working
 Today entered
 print("This is second commit")
+for i in range(10):
+  print(i)
